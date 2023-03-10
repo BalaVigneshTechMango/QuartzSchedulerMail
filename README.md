@@ -1,0 +1,2 @@
+# QuartzSchedulerMail
+Quartz
